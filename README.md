@@ -152,3 +152,8 @@ Toda la propiedad intelectual pertenece exclusivamente a **JMC Studio Creativo**
 Estos benchmarks representan **señales tempranas de validación**, no afirmaciones finales de rendimiento.
 
 Evaluaciones técnicas detalladas, benchmarks ampliados y **demostraciones en vivo** están disponibles bajo solicitud durante la ronda de inversión.
+
+---
+
+© 2025 JMC Studio Creativo — AIDEN IA Latina. Todos los derechos reservados.  
+Desarrollado en Guayaquil, Ecuador.

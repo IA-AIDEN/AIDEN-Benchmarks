@@ -1,10 +1,10 @@
-### Benchmarks de AIDEN
+# Benchmarks de AIDEN
 
 Este repositorio documenta la metodología de evaluación y los resultados comparativos de AIDEN (MVP 1.0.1), la primera Inteligencia Artificial Latina desarrollada de forma independiente por JMC Studio Creativo.
 
 Todos los benchmarks aquí presentados corresponden a evaluaciones en etapa de prototipo, realizadas durante la fase inicial de validación, sin financiamiento externo y sin infraestructura industrial a gran escala.
 
-### Alcance y Contexto
+## Alcance y Contexto
 
 Versión del modelo: AIDEN MVP 1.0.1
 
@@ -28,7 +28,7 @@ Alineación emocional
 
 Potencial de escalabilidad
 
-### Modelos Evaluados — Comparativa de Capacidades
+## Modelos Evaluados — Comparativa de Capacidades
 
 Los siguientes modelos del ecosistema AIDEN fueron considerados en los benchmarks comparativos:
 
@@ -40,9 +40,9 @@ AIDEN Azul Dark API	1M+	Multilenguaje + JSON	🗣️ ⌨️ 🖼️ 🎞️	Text
 
 Esta información es coherente con la documentación publicada en los repositorios oficiales del ecosistema AIDEN.
 
-### Benchmarks Realizados
+## Benchmarks Realizados
 
-1. Test de Coherencia Conversacional
+### 1. Test de Coherencia Conversacional
 
 Objetivo:
 Evaluar la fluidez del diálogo, la retención de contexto y la continuidad lógica en conversaciones de múltiples turnos.
@@ -67,7 +67,7 @@ Fortaleza destacada en español latino por naturalidad lingüística
 
 <p align="center"> <img src="assets/AIDEN_Benchmark_Test_Coherencia_Conversacional.png" width="900"> </p>
 
-2. Test de Alineación Emocional
+### 2. Test de Alineación Emocional
 
 Objetivo:
 Medir empatía, adecuación emocional y naturalidad humana en las respuestas.
@@ -95,7 +95,8 @@ Desempeño especialmente fuerte en expresiones LATAM
 Resultados competitivos frente a modelos de mayor escala
 
 <p align="center"> <img src="assets/AIDEN_Benchmark_Test_Alineacion_Emocional.png" width="900"> </p>
-3. Latencia y Capacidad de Respuesta
+
+### 3. Latencia y Capacidad de Respuesta
 
 Objetivo:
 Evaluar la viabilidad de interacción en tiempo real, tanto en texto como en voz.
@@ -115,7 +116,8 @@ Comportamiento estable bajo infraestructura de prototipo
 Alto potencial de optimización con infraestructura dedicada
 
 <p align="center"> <img src="assets/AIDEN_Benchmark_Latencia_y_Respuesta.png" width="900"> </p>
-4. Manejo Multilingüe (Evaluación Complementaria)
+
+### 4. Manejo Multilingüe (Evaluación Complementaria)
 
 Objetivo:
 Evaluar la calidad de respuestas entre español latino e inglés.
@@ -129,7 +131,8 @@ Inglés: correcto, claro y funcional
 Transición fluida cuando el cambio de idioma es explícito
 
 <p align="center"> <img src="assets/AIDEN_Benchmark_Manejo_Multilingue.png" width="900"> </p>
-🚀 Observaciones Clave
+
+## Observaciones Clave
 
 AIDEN demuestra capacidades conversacionales y emocionales sólidas a escala de prototipo.
 
@@ -139,7 +142,7 @@ Alto potencial de mejora mediante entrenamiento, optimización y escalamiento.
 
 La autenticidad cultural es un diferenciador estratégico clave.
 
-🔐 Propiedad Intelectual y Aviso Legal
+## Propiedad Intelectual y Aviso Legal
 
 Este repositorio contiene únicamente descripciones metodológicas.
 
@@ -153,7 +156,7 @@ No incluye detalles de implementación
 
 Toda la propiedad intelectual pertenece exclusivamente a JMC Studio Creativo y su autor.
 
-📌 Nota para Inversionistas
+## Nota para Inversionistas
 
 Estos benchmarks representan señales tempranas de validación, no afirmaciones finales de rendimiento.
 

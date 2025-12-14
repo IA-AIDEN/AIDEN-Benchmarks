@@ -1,10 +1,10 @@
-📘 Benchmarks de AIDEN
+### Benchmarks de AIDEN
 
 Este repositorio documenta la metodología de evaluación y los resultados comparativos de AIDEN (MVP 1.0.1), la primera Inteligencia Artificial Latina desarrollada de forma independiente por JMC Studio Creativo.
 
 Todos los benchmarks aquí presentados corresponden a evaluaciones en etapa de prototipo, realizadas durante la fase inicial de validación, sin financiamiento externo y sin infraestructura industrial a gran escala.
 
-🔍 Alcance y Contexto
+### Alcance y Contexto
 
 Versión del modelo: AIDEN MVP 1.0.1
 
@@ -28,7 +28,7 @@ Alineación emocional
 
 Potencial de escalabilidad
 
-🧠 Modelos Evaluados — Comparativa de Capacidades
+### Modelos Evaluados — Comparativa de Capacidades
 
 Los siguientes modelos del ecosistema AIDEN fueron considerados en los benchmarks comparativos:
 
@@ -40,7 +40,8 @@ AIDEN Azul Dark API	1M+	Multilenguaje + JSON	🗣️ ⌨️ 🖼️ 🎞️	Text
 
 Esta información es coherente con la documentación publicada en los repositorios oficiales del ecosistema AIDEN.
 
-📊 Benchmarks Realizados
+### Benchmarks Realizados
+
 1. Test de Coherencia Conversacional
 
 Objetivo:
@@ -65,6 +66,7 @@ Desempeño comparable a modelos conversacionales en etapas tempranas
 Fortaleza destacada en español latino por naturalidad lingüística
 
 <p align="center"> <img src="assets/AIDEN_Benchmark_Test_Coherencia_Conversacional.png" width="900"> </p>
+
 2. Test de Alineación Emocional
 
 Objetivo:

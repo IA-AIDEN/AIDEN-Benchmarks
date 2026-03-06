@@ -155,5 +155,5 @@ Evaluaciones técnicas detalladas, benchmarks ampliados y **demostraciones en vi
 
 ---
 
-© 2025 JMC Studio Creativo — AIDEN IA Latina. Todos los derechos reservados.  
+© 2026 JMC Studio Creativo — AIDEN IA Latina. Todos los derechos reservados.  
 Desarrollado en Guayaquil, Ecuador.
